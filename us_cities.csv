@@ -1,0 +1,629 @@
+,Name,Population_2018,Land_area,Location
+1,New York City,"8,398,748
+",780.9 km,40.6635°N 73.9387°W
+2,Los Angeles,"3,990,456
+","1,213.9 km",34.0194°N 118.4108°W
+3,Chicago,"2,705,994
+",588.7 km,41.8376°N 87.6818°W
+4,Houston,"2,325,502
+","1,651.1 km",29.7866°N 95.3909°W
+5,"Phoenix, Arizona","1,660,272
+","1,340.6 km",33.5722°N 112.0901°W
+6,Philadelphia,"1,584,138
+",347.6 km,40.0094°N 75.1333°W
+7,San Antonio,"1,532,233
+","1,194.0 km",29.4724°N 98.5251°W
+8,San Diego,"1,425,976
+",842.3 km,32.8153°N 117.1350°W
+9,Dallas,"1,345,047
+",882.9 km,32.7933°N 96.7665°W
+10,"San Jose, California","1,030,119
+",459.7 km,37.2967°N 121.8189°W
+11,"Austin, Texas","964,254
+",809.9 km,30.3039°N 97.7544°W
+12,"Jacksonville, Florida","903,889
+","1,935.8 km",30.3369°N 81.6616°W
+13,"Fort Worth, Texas","895,008
+",888.1 km,32.7815°N 97.3467°W
+14,"Columbus, Ohio","892,533
+",565.9 km,39.9852°N 82.9848°W
+15,San Francisco,"883,305
+",121.5 km,37.7272°N 123.0322°W
+16,"Charlotte, North Carolina","872,498
+",791.0 km,35.2078°N 80.8310°W
+17,Indianapolis,"867,125
+",936.3 km,39.7767°N 86.1459°W
+18,Seattle,"744,955
+",217.0 km,47.6205°N 122.3509°W
+19,Denver,"716,492
+",397.0 km,39.7619°N 104.8811°W
+20,"Washington, D.C.","702,455
+",158.2 km,38.9041°N 77.0172°W
+21,Boston,"694,583
+",125.1 km,42.3320°N 71.0202°W
+22,"El Paso, Texas","682,669
+",665.1 km,31.8484°N 106.4270°W
+23,Detroit,"672,662
+",359.5 km,42.3830°N 83.1022°W
+24,"Nashville, Tennessee","669,053
+","1,232.6 km",36.1718°N 86.7850°W
+25,"Portland, Oregon","653,115
+",345.8 km,45.5370°N 122.6500°W
+26,"Memphis, Tennessee","650,618
+",822.1 km,35.1028°N 89.9774°W
+27,Oklahoma City,"649,021
+","1,570.3 km",35.4671°N 97.5137°W
+28,Las Vegas,"644,644
+",348.1 km,36.2292°N 115.2601°W
+29,"Louisville, Kentucky","620,118
+",682.5 km,38.1654°N 85.6474°W
+30,Baltimore,"602,495
+",209.5 km,39.3000°N 76.6105°W
+31,Milwaukee,"592,025
+",249.2 km,43.0633°N 87.9667°W
+32,"Albuquerque, New Mexico","560,218
+",487.4 km,35.1056°N 106.6474°W
+33,"Tucson, Arizona","545,975
+",597.8 km,32.1531°N 110.8706°W
+34,"Fresno, California","530,093
+",296.3 km,36.7836°N 119.7934°W
+35,"Mesa, Arizona","508,958
+",357.2 km,33.4019°N 111.7174°W
+36,"Sacramento, California","508,529
+",253.6 km,38.5666°N 121.4686°W
+37,Atlanta,"498,044
+",345.8 km,33.7629°N 84.4227°W
+38,"Kansas City, Missouri","491,918
+",815.8 km,39.1251°N 94.5510°W
+39,"Colorado Springs, Colorado","472,688
+",506.6 km,38.8673°N 104.7607°W
+40,Miami,"470,914
+",93.2 km,25.7752°N 80.2086°W
+41,"Raleigh, North Carolina","469,298
+",375.8 km,35.8306°N 78.6418°W
+42,"Omaha, Nebraska","468,262
+",345.0 km,41.2644°N 96.0451°W
+43,"Long Beach, California","467,354
+",130.3 km,33.8092°N 118.1553°W
+44,"Virginia Beach, Virginia","450,189
+",633.8 km,36.7800°N 76.0252°W
+45,"Oakland, California","429,082
+",144.8 km,37.7698°N 122.2257°W
+46,Minneapolis,"425,403
+",139.9 km,44.9633°N 93.2683°W
+47,"Tulsa, Oklahoma","400,669
+",509.7 km,36.1279°N 95.9023°W
+48,"Arlington, Texas","398,112
+",248.1 km,32.7007°N 97.1247°W
+49,"Tampa, Florida","392,890
+",293.7 km,27.9701°N 82.4797°W
+50,New Orleans,"391,006
+",438.7 km,30.0534°N 89.9345°W
+51,"Wichita, Kansas","389,255
+",415.4 km,37.6907°N 97.3459°W
+52,Cleveland,"383,793
+",201.2 km,41.4785°N 81.6794°W
+53,"Bakersfield, California","383,579
+",385.4 km,35.3212°N 119.0183°W
+54,"Aurora, Colorado","374,114
+",397.6 km,39.6880°N 104.6897°W
+55,"Anaheim, California","352,005
+",129.5 km,33.8555°N 117.7601°W
+56,Honolulu,"347,397
+",156.7 km,21.3243°N 157.8476°W
+57,"Santa Ana, California","332,725
+",70.2 km,33.7363°N 117.8830°W
+58,"Riverside, California","330,063
+",210.3 km,33.9381°N 117.3932°W
+59,"Corpus Christi, Texas","326,554
+",452.2 km,27.7543°N 97.1734°W
+60,"Lexington, Kentucky","323,780
+",734.5 km,38.0407°N 84.4583°W
+61,"Stockton, California","311,178
+",159.8 km,37.9763°N 121.3133°W
+62,"Henderson, Nevada","310,390
+",271.2 km,36.0097°N 115.0357°W
+63,"Saint Paul, Minnesota","307,695
+",134.7 km,44.9489°N 93.1041°W
+64,St. Louis,"302,838
+",160.6 km,38.6357°N 90.2446°W
+65,Cincinnati,"302,605
+",200.5 km,39.1402°N 84.5058°W
+66,Pittsburgh,"301,048
+",143.5 km,40.4398°N 79.9766°W
+67,"Greensboro, North Carolina","294,722
+",332.3 km,36.0951°N 79.8270°W
+68,"Anchorage, Alaska","291,538
+","4,420.1 km",61.1743°N 149.2843°W
+69,"Plano, Texas","288,061
+",185.7 km,33.0508°N 96.7479°W
+70,"Lincoln, Nebraska","287,401
+",238.5 km,40.8105°N 96.6803°W
+71,"Orlando, Florida","285,713
+",272.5 km,28.4166°N 81.2736°W
+72,"Irvine, California","282,572
+",169.9 km,33.6784°N 117.7713°W
+73,"Newark, New Jersey","282,090
+",62.4 km,40.7242°N 74.1726°W
+74,"Toledo, Ohio","274,975
+",209.0 km,41.6641°N 83.5819°W
+75,"Durham, North Carolina","274,291
+",284.4 km,35.9811°N 78.9029°W
+76,"Chula Vista, California","271,651
+",128.5 km,32.6277°N 117.0152°W
+77,"Fort Wayne, Indiana","267,633
+",286.5 km,41.0882°N 85.1439°W
+78,"Jersey City, New Jersey","265,549
+",38.3 km,40.7114°N 74.0648°W
+79,"St. Petersburg, Florida","265,098
+",160.1 km,27.7620°N 82.6441°W
+80,"Laredo, Texas","261,639
+",261.8 km,27.5604°N 99.4892°W
+81,"Madison, Wisconsin","258,054
+",199.4 km,43.0878°N 89.4299°W
+82,"Chandler, Arizona","257,165
+",168.1 km,33.2829°N 111.8549°W
+83,"Buffalo, New York","256,304
+",104.6 km,42.8925°N 78.8597°W
+84,"Lubbock, Texas","255,885
+",322.7 km,33.5656°N 101.8867°W
+85,"Scottsdale, Arizona","255,310
+",476.3 km,33.6843°N 111.8611°W
+86,"Reno, Nevada","250,998
+",277.9 km,39.5491°N 119.8499°W
+87,"Glendale, Arizona","250,702
+",153.1 km,33.5331°N 112.1899°W
+88,"Gilbert, Arizona","248,279
+",176.1 km,33.3103°N 111.7431°W
+89,"Winston–Salem, North Carolina","246,328
+",343.2 km,36.1027°N 80.2610°W
+90,"North Las Vegas, Nevada","245,949
+",253.8 km,36.2857°N 115.0939°W
+91,"Norfolk, Virginia","244,076
+",138.0 km,36.9230°N 76.2446°W
+92,"Chesapeake, Virginia","242,634
+",876.7 km,36.6794°N 76.3018°W
+93,"Garland, Texas","242,507
+",147.6 km,32.9098°N 96.6303°W
+94,"Irving, Texas","242,242
+",173.5 km,32.8577°N 96.9700°W
+95,"Hialeah, Florida","238,942
+",55.7 km,25.8699°N 80.3029°W
+96,"Fremont, California","237,807
+",200.7 km,37.4945°N 121.9412°W
+97,"Boise, Idaho","228,790
+",212.6 km,43.6002°N 116.2317°W
+98,"Richmond, Virginia","228,783
+",154.9 km,37.5314°N 77.4760°W
+99,"Baton Rouge, Louisiana","221,599
+",222.5 km,30.4422°N 91.1309°W
+100,"Spokane, Washington","219,190
+",177.9 km,47.6669°N 117.4333°W
+101,"Des Moines, Iowa","216,853
+",230.2 km,41.5726°N 93.6102°W
+102,"Tacoma, Washington","216,279
+",128.7 km,47.2522°N 122.4598°W
+103,"San Bernardino, California","215,941
+",159.3 km,34.1416°N 117.2936°W
+104,"Modesto, California","215,030
+",111.4 km,37.6375°N 121.0030°W
+105,"Fontana, California","213,739
+",111.4 km,34.1090°N 117.4629°W
+106,"Santa Clarita, California","210,089
+",136.8 km,34.4030°N 118.5042°W
+107,"Birmingham, Alabama","209,880
+",378.4 km,33.5274°N 86.7990°W
+108,"Oxnard, California","209,877
+",69.7 km,34.2023°N 119.2046°W
+109,"Fayetteville, North Carolina","209,468
+",382.5 km,35.0828°N 78.9735°W
+110,"Moreno Valley, California","209,050
+",132.9 km,33.9233°N 117.2057°W
+111,"Rochester, New York","206,284
+",92.7 km,43.1699°N 77.6169°W
+112,"Glendale, California","201,361
+",78.7 km,34.1814°N 118.2458°W
+113,"Huntington Beach, California","200,641
+",69.7 km,33.6906°N 118.0093°W
+114,Salt Lake City,"200,591
+",288.0 km,40.7769°N 111.9310°W
+115,"Grand Rapids, Michigan","200,217
+",115.0 km,42.9612°N 85.6556°W
+116,"Amarillo, Texas","199,924
+",262.6 km,35.1999°N 101.8302°W
+117,"Yonkers, New York","199,663
+",46.6 km,40.9459°N 73.8674°W
+118,"Aurora, Illinois","199,602
+",116.3 km,41.7635°N 88.2901°W
+119,"Montgomery, Alabama","198,218
+",413.9 km,32.3472°N 86.2661°W
+120,"Akron, Ohio","198,006
+",160.6 km,41.0805°N 81.5214°W
+121,"Little Rock, Arkansas","197,881
+",307.4 km,34.7254°N 92.3586°W
+122,"Huntsville, Alabama","197,318
+",552.7 km,34.6990°N 86.6730°W
+123,"Augusta, Georgia","196,939
+",783.5 km,33.3655°N 82.0734°W
+124,"Port St. Lucie, Florida","195,248
+",307.9 km,27.2806°N 80.3883°W
+125,"Grand Prairie, Texas","194,614
+",187.3 km,32.6869°N 97.0211°W
+126,"Columbus, Georgia","194,160
+",560.5 km,32.5102°N 84.8749°W
+127,"Tallahassee, Florida","193,551
+",260.0 km,30.4551°N 84.2534°W
+128,"Overland Park, Kansas","192,536
+",194.5 km,38.8890°N 94.6906°W
+129,"Tempe, Arizona","192,364
+",103.6 km,33.3884°N 111.9318°W
+130,"McKinney, Texas","191,645
+",163.2 km,33.1985°N 96.6680°W
+131,"Mobile, Alabama","189,572
+",361.0 km,30.6684°N 88.1002°W
+132,"Cape Coral, Florida","189,343
+",273.5 km,26.6432°N 81.9974°W
+133,"Shreveport, Louisiana","188,987
+",277.4 km,32.4669°N 93.7922°W
+134,"Frisco, Texas","188,170
+",175.3 km,33.1554°N 96.8226°W
+135,"Knoxville, Tennessee","187,500
+",255.1 km,35.9707°N 83.9493°W
+136,"Worcester, Massachusetts","185,877
+",96.9 km,42.2695°N 71.8078°W
+137,"Brownsville, Texas","183,392
+",343.2 km,25.9991°N 97.4550°W
+138,"Vancouver, Washington","183,012
+",121.5 km,45.6349°N 122.5957°W
+139,"Fort Lauderdale, Florida","182,595
+",89.6 km,26.1412°N 80.1467°W
+140,"Sioux Falls, South Dakota","181,883
+",195.3 km,43.5383°N 96.7320°W
+141,"Ontario, California","181,107
+",129.2 km,34.0394°N 117.6042°W
+142,"Chattanooga, Tennessee","180,557
+",370.6 km,35.0660°N 85.2484°W
+143,"Providence, Rhode Island","179,335
+",47.7 km,41.8231°N 71.4188°W
+144,"Newport News, Virginia","178,626
+",179.0 km,37.0762°N 76.5220°W
+145,"Rancho Cucamonga, California","177,751
+",103.6 km,34.1233°N 117.5642°W
+146,"Santa Rosa, California","177,586
+",107.0 km,38.4468°N 122.7061°W
+147,"Oceanside, California","176,080
+",107.0 km,33.2245°N 117.3062°W
+148,"Salem, Oregon","173,442
+",125.9 km,44.9237°N 123.0232°W
+149,"Elk Grove, California","172,886
+",109.3 km,38.4146°N 121.3850°W
+150,"Garden Grove, California","172,646
+",46.6 km,33.7788°N 117.9605°W
+151,"Pembroke Pines, Florida","172,374
+",85.5 km,26.0210°N 80.3404°W
+152,"Peoria, Arizona","172,259
+",455.1 km,33.7862°N 112.3080°W
+153,"Eugene, Oregon","171,245
+",114.2 km,44.0567°N 123.1162°W
+154,"Corona, California","168,819
+",102.3 km,33.8620°N 117.5655°W
+155,"Cary, North Carolina","168,160
+",146.3 km,35.7809°N 78.8133°W
+156,"Springfield, Missouri","168,122
+",213.2 km,37.1942°N 93.2913°W
+157,"Fort Collins, Colorado","167,830
+",144.5 km,40.5482°N 105.0648°W
+158,"Jackson, Mississippi","164,422
+",287.5 km,32.3158°N 90.2128°W
+159,"Alexandria, Virginia","160,530
+",38.8 km,38.8201°N 77.0841°W
+160,"Hayward, California","159,620
+",117.8 km,37.6287°N 122.1024°W
+161,"Lancaster, California","159,053
+",244.2 km,34.6936°N 118.1753°W
+162,"Lakewood, Colorado","156,798
+",111.1 km,39.6989°N 105.1176°W
+163,"Clarksville, Tennessee","156,794
+",254.6 km,36.5664°N 87.3452°W
+164,"Palmdale, California","156,667
+",274.5 km,34.5910°N 118.1054°W
+165,"Salinas, California","156,259
+",61.1 km,36.6902°N 121.6337°W
+166,"Springfield, Massachusetts","155,032
+",82.6 km,42.1155°N 72.5400°W
+167,"Hollywood, Florida","154,823
+",70.7 km,26.0310°N 80.1646°W
+168,"Pasadena, Texas","153,219
+",112.7 km,29.6586°N 95.1506°W
+169,"Sunnyvale, California","153,185
+",57.0 km,37.3858°N 122.0263°W
+170,"Macon, Georgia","153,095
+",645.7 km,32.8088°N 83.6942°W
+171,"Kansas City, Kansas","152,958
+",323.2 km,39.1225°N 94.7418°W
+172,"Pomona, California","152,361
+",59.6 km,34.0585°N 117.7611°W
+173,"Escondido, California","152,213
+",96.1 km,33.1331°N 117.0740°W
+174,"Killeen, Texas","149,103
+",138.6 km,31.0777°N 97.7320°W
+175,"Naperville, Illinois","148,304
+",100.2 km,41.7492°N 88.1620°W
+176,"Joliet, Illinois","148,099
+",166.8 km,41.5177°N 88.1488°W
+177,"Bellevue, Washington","147,599
+",86.8 km,47.5979°N 122.1565°W
+178,"Rockford, Illinois","146,526
+",164.5 km,42.2588°N 89.0646°W
+179,"Savannah, Georgia","145,862
+",268.3 km,32.0025°N 81.1536°W
+180,"Paterson, New Jersey","145,627
+",21.8 km,40.9148°N 74.1628°W
+181,"Torrance, California","145,182
+",53.1 km,33.8350°N 118.3414°W
+182,"Bridgeport, Connecticut","144,900
+",41.7 km,41.1874°N 73.1958°W
+183,"McAllen, Texas","143,433
+",151.3 km,26.2322°N 98.2464°W
+184,"Mesquite, Texas","142,816
+",122.2 km,32.7629°N 96.5888°W
+185,"Syracuse, New York","142,749
+",64.7 km,43.0410°N 76.1436°W
+186,"Midland, Texas","142,344
+",192.7 km,32.0246°N 102.1135°W
+187,"Pasadena, California","141,371
+",59.6 km,34.1606°N 118.1396°W
+188,"Murfreesboro, Tennessee","141,344
+",144.8 km,35.8522°N 86.4160°W
+189,"Miramar, Florida","140,823
+",76.1 km,25.9770°N 80.3358°W
+190,"Dayton, Ohio","140,640
+",144.3 km,39.7774°N 84.1996°W
+191,"Fullerton, California","139,640
+",58.0 km,33.8857°N 117.9280°W
+192,"Olathe, Kansas","139,605
+",157.7 km,38.8843°N 94.8195°W
+193,"Orange, California","139,484
+",65.8 km,33.7870°N 117.8613°W
+194,"Thornton, Colorado","139,436
+",92.5 km,39.9194°N 104.9428°W
+195,"Roseville, California","139,117
+",111.4 km,38.7690°N 121.3189°W
+196,"Denton, Texas","138,541
+",241.9 km,33.2166°N 97.1414°W
+197,"Waco, Texas","138,183
+",230.5 km,31.5601°N 97.1860°W
+198,"Surprise, Arizona","138,161
+",279.5 km,33.6706°N 112.4527°W
+199,"Carrollton, Texas","136,879
+",94.0 km,32.9884°N 96.8998°W
+200,"West Valley City, Utah","136,401
+",91.9 km,40.6885°N 112.0118°W
+201,"Charleston, South Carolina","136,208
+",282.3 km,32.8179°N 79.9590°W
+202,"Warren, Michigan","134,587
+",89.1 km,42.4929°N 83.0250°W
+203,"Hampton, Virginia","134,313
+",133.4 km,37.0480°N 76.2971°W
+204,"Gainesville, Florida","133,857
+",161.4 km,29.6788°N 82.3461°W
+205,"Visalia, California","133,800
+",97.1 km,36.3273°N 119.3289°W
+206,"Coral Springs, Florida","133,507
+",61.6 km,26.2707°N 80.2593°W
+207,"Columbia, South Carolina","133,451
+",345.8 km,34.0291°N 80.8980°W
+208,"Cedar Rapids, Iowa","133,174
+",183.4 km,41.9670°N 91.6778°W
+209,"Sterling Heights, Michigan","132,964
+",94.5 km,42.5812°N 83.0303°W
+210,"New Haven, Connecticut","130,418
+",48.4 km,41.3108°N 72.9250°W
+211,"Stamford, Connecticut","129,775
+",97.4 km,41.0799°N 73.5460°W
+212,"Concord, California","129,688
+",79.0 km,37.9722°N 122.0016°W
+213,"Kent, Washington","129,618
+",87.3 km,47.3880°N 122.2127°W
+214,"Santa Clara, California","129,488
+",47.7 km,37.3646°N 121.9679°W
+215,"Elizabeth, New Jersey","128,885
+",31.9 km,40.6664°N 74.1935°W
+216,"Round Rock, Texas","128,739
+",92.2 km,30.5252°N 97.6660°W
+217,"Thousand Oaks, California","127,690
+",143.0 km,34.1933°N 118.8742°W
+218,"Lafayette, Louisiana","126,143
+",139.3 km,30.2074°N 92.0285°W
+219,"Athens, Georgia","125,964
+",301.5 km,33.9496°N 83.3701°W
+220,"Topeka, Kansas","125,904
+",159.3 km,39.0347°N 95.6962°W
+221,"Simi Valley, California","125,851
+",107.5 km,34.2669°N 118.7485°W
+222,"Fargo, North Dakota","124,844
+",127.7 km,46.8652°N 96.8290°W
+223,"Norman, Oklahoma","123,471
+",463.1 km,35.2406°N 97.3453°W
+224,"Columbia, Missouri","123,180
+",168.3 km,38.951561°N 92.328638°W
+225,"Abilene, Texas","122,999
+",276.4 km,32.4545°N 99.7381°W
+226,"Wilmington, North Carolina","122,607
+",133.6 km,34.2092°N 77.8858°W
+227,"Hartford, Connecticut","122,587
+",45.1 km,41.7659°N 72.6816°W
+228,"Victorville, California","122,312
+",189.8 km,34.5277°N 117.3536°W
+229,"Pearland, Texas","122,149
+",119.9 km,29.5558°N 95.3231°W
+230,"Vallejo, California","121,913
+",79.5 km,38.1079°N 122.2640°W
+231,"Ann Arbor, Michigan","121,890
+",72.8 km,42.2761°N 83.7309°W
+232,"Berkeley, California","121,643
+",27.2 km,37.8670°N 122.2991°W
+233,"Allentown, Pennsylvania","121,433
+",45.3 km,40.5936°N 75.4784°W
+234,"Richardson, Texas","120,981
+",74.1 km,32.9723°N 96.7081°W
+235,"Odessa, Texas","120,568
+",117.1 km,31.8838°N 102.3411°W
+236,"Arvada, Colorado","120,492
+",100.0 km,39.8337°N 105.1503°W
+237,"Cambridge, Massachusetts","118,977
+",16.6 km,42.3760°N 71.1187°W
+238,"Sugar Land, Texas","118,600
+",88.1 km,29.5994°N 95.6142°W
+239,"Beaumont, Texas","118,428
+",212.6 km,30.0849°N 94.1453°W
+240,"Lansing, Michigan","118,427
+",101.3 km,42.7143°N 84.5593°W
+241,"Evansville, Indiana","117,963
+",122.5 km,37.9877°N 87.5347°W
+242,"Rochester, Minnesota","116,961
+",141.4 km,44.0154°N 92.4772°W
+243,"Independence, Missouri","116,925
+",201.5 km,39.0855°N 94.3521°W
+244,"Fairfield, California","116,884
+",105.9 km,38.2593°N 122.0321°W
+245,"Provo, Utah","116,702
+",108.0 km,40.2453°N 111.6448°W
+246,"Clearwater, Florida","116,478
+",67.1 km,27.9789°N 82.7666°W
+247,"College Station, Texas","116,218
+",132.1 km,30.5852°N 96.2964°W
+248,"West Jordan, Utah","116,046
+",83.7 km,40.6024°N 112.0008°W
+249,"Carlsbad, California","115,877
+",97.6 km,33.1239°N 117.2828°W
+250,"El Monte, California","115,586
+",24.9 km,34.0746°N 118.0291°W
+251,"Murrieta, California","114,985
+",87.0 km,33.5721°N 117.1904°W
+252,"Temecula, California","114,742
+",96.6 km,33.4931°N 117.1317°W
+253,"Springfield, Illinois","114,694
+",155.7 km,39.7911°N 89.6446°W
+254,"Palm Bay, Florida","114,194
+",170.2 km,27.9856°N 80.6626°W
+255,"Costa Mesa, California","113,615
+",40.7 km,33.6659°N 117.9123°W
+256,"Westminster, Colorado","113,479
+",82.1 km,39.8822°N 105.0644°W
+257,"North Charleston, South Carolina","113,237
+",190.9 km,32.9178°N 80.0650°W
+258,"Miami Gardens, Florida","113,069
+",47.1 km,25.9489°N 80.2436°W
+259,"Manchester, New Hampshire","112,525
+",85.7 km,42.9849°N 71.4441°W
+260,"High Point, North Carolina","112,316
+",143.0 km,35.9900°N 79.9905°W
+261,"Downey, California","112,269
+",32.1 km,33.9382°N 118.1309°W
+262,"Clovis, California","112,022
+",62.7 km,36.8282°N 119.6849°W
+263,"Pompano Beach, Florida","111,954
+",62.2 km,26.2416°N 80.1339°W
+264,"Pueblo, Colorado","111,750
+",138.8 km,38.2699°N 104.6123°W
+265,"Elgin, Illinois","111,683
+",96.9 km,42.0396°N 88.3217°W
+266,"Lowell, Massachusetts","111,670
+",35.2 km,42.6390°N 71.3211°W
+267,"Antioch, California","111,535
+",76.1 km,37.9791°N 121.7962°W
+268,"West Palm Beach, Florida","111,398
+",142.7 km,26.7464°N 80.1251°W
+269,"Peoria, Illinois","111,388
+",124.8 km,40.7515°N 89.6174°W
+270,"Everett, Washington","111,262
+",86.2 km,47.9566°N 122.1914°W
+271,"Ventura, California","111,128
+",56.5 km,34.2678°N 119.2542°W
+272,"Centennial, Colorado","110,831
+",76.4 km,39.5906°N 104.8691°W
+273,"Lakeland, Florida","110,516
+",170.7 km,28.0555°N 81.9549°W
+274,"Gresham, Oregon","110,158
+",60.3 km,45.5023°N 122.4416°W
+275,"Richmond, California","110,146
+",78.0 km,37.9523°N 122.3606°W
+276,"Billings, Montana","109,550
+",113.2 km,45.7885°N 108.5499°W
+277,"Inglewood, California","109,419
+",23.6 km,33.9561°N 118.3443°W
+278,"Broken Arrow, Oklahoma","109,171
+",159.8 km,36.0365°N 95.7810°W
+279,"Sandy Springs, Georgia","108,797
+",97.6 km,33.9315°N 84.3687°W
+280,"Jurupa Valley, California","108,393
+",111.1 km,34.0026°N 117.4676°W
+281,"Hillsboro, Oregon","108,389
+",64.7 km,45.5280°N 122.9357°W
+282,"Waterbury, Connecticut","108,093
+",73.8 km,41.5585°N 73.0367°W
+283,"Santa Maria, California","107,408
+",59.1 km,34.9332°N 120.4438°W
+284,"Boulder, Colorado","107,353
+",64.2 km,40.0270°N 105.2519°W
+285,"Greeley, Colorado","107,348
+",123.8 km,40.4153°N 104.7697°W
+286,"Daly City, California","107,008
+",19.7 km,37.7009°N 122.4650°W
+287,"Meridian, Idaho","106,804
+",77.2 km,43.6142°N 116.3989°W
+288,"Lewisville, Texas","106,586
+",95.1 km,33.0466°N 96.9818°W
+289,"Davie, Florida","106,558
+",90.4 km,26.0791°N 80.2850°W
+290,"West Covina, California","106,311
+",41.4 km,34.0559°N 117.9099°W
+291,"League City, Texas","106,244
+",132.6 km,29.4901°N 95.1091°W
+292,"Tyler, Texas","105,729
+",146.6 km,32.3173°N 95.3059°W
+293,"Norwalk, California","105,120
+",25.1 km,33.9076°N 118.0835°W
+294,"San Mateo, California","105,025
+",31.3 km,37.5603°N 122.3106°W
+295,"Green Bay, Wisconsin","104,879
+",117.6 km,44.5207°N 87.9842°W
+296,"Wichita Falls, Texas","104,576
+",187.0 km,33.9067°N 98.5259°W
+297,"Sparks, Nevada","104,246
+",93.0 km,39.5544°N 119.7356°W
+298,"Lakewood Township, New Jersey","104,157
+",64.0 km,40.0771°N 74.2004°W
+299,"Burbank, California","103,695
+",45.1 km,34.1901°N 118.3264°W
+300,"Rialto, California","103,440
+",57.8 km,34.1118°N 117.3883°W
+301,"Allen, Texas","103,383
+",70.2 km,33.0997°N 96.6631°W
+302,"El Cajon, California","103,241
+",37.6 km,32.8017°N 116.9604°W
+303,"Las Cruces, New Mexico","102,926
+",199.2 km,32.3264°N 106.7897°W
+304,"Renton, Washington","102,153
+",60.6 km,47.4761°N 122.1920°W
+305,"Davenport, Iowa","102,085
+",162.9 km,41.5541°N 90.6040°W
+306,"South Bend, Indiana","101,860
+",107.2 km,41.6769°N 86.2690°W
+307,"Vista, California","101,224
+",48.4 km,33.1895°N 117.2386°W
+308,"Tuscaloosa, Alabama","101,113
+",185.7 km,33.2065°N 87.5346°W
+309,"Clinton Township, Macomb County, Michigan","100,800
+",72.8 km,42.5903°N 82.9170°W
+310,"Edison, New Jersey","100,693
+",78.0 km,40.5040°N 74.3494°W
+311,"Woodbridge Township, New Jersey","100,450
+",60.3 km,40.5607°N 74.2927°W
+312,"San Angelo, Texas","100,215
+",155.1 km,31.4411°N 100.4505°W
+313,"Kenosha, Wisconsin","100,164
+",72.5 km,42.5822°N 87.8456°W
+314,"Vacaville, California","100,154
+",75.1 km,38.3539°N 121.9728°W
